@@ -1,0 +1,15 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+*.pidb.meta 
+*.csproj.meta
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+gamebookunity.sln
+gamebookunity.userprefs
+Builds/
+.vs/
